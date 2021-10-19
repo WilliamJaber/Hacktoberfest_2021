@@ -21,52 +21,62 @@ There are two (2) ways to contribute to this project:
 
 
 ---
-## 👉 Getting Started
+## 👉 Instructions on how to Contribute
 
 <details>
   <summary>Click to view Instructions!</summary>
 
-### 1. Folk this Repository
- 
-Folk this Repo by clicking on the fork button on the top of this page. This will create a copy of this repository in your account.
+1. `Folk this Repo` by clicking on the fork button on the top of this page. This will create a copy of this repository in your account
 
 ![image](https://user-images.githubusercontent.com/72005563/136487383-4161c010-ffc5-40cb-bd1f-4f1ac0a4429f.png)
 
 
-### 2. Clone the Repository
 
-Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the copy to clipboard icon.
-Open a terminal and run the following git command:
+3. Open your preferred command line interface (CLI).
+4. Clone this repository:    
+    ```
+    git clone git clone https://github.com/{username}/Hacktoberfest_2021.git
+    ```
+ 3. Navigate to the repository in your shell:
 
-- `git clone https://github.com/{username}/Hacktoberfest_2021.git`
+    ```
+    cd Hacktoberfest_2021
+    ```
 
-Where `{username}` is your GitHub username. This copies the contents of the Hacktoberfest repository on GitHub to your computer.
+4. Create a branch, use whatever name you like. 
 
-### 3. Create a branch
-Change to the repository directory on your computer (if you are not already there):
+    ```
+    git checkout -b <branch-name>
+    ```
+5. Push the branch to GitHub
+    ```
+    git push -u origin <branch-name>
+    ```
+6. Add your files or changes. Then add files to staging area 
+    ```
+    git add .
+    ```
+7. Add a commit message
+    ```
+    git commit -m "Your commit message"
+    ```
 
-- `cd Hacktoberfest_2021`
-
-Now create a branch using the git checkout command:
-- `git checkout -b {branch-name}`
-
-Where `{branch-name}` is your branch name.
-
-
-### 4. Add your Contribution
-Either add your name to the `CONTRIBUTORS.md` file or add a small `Python` program of your choice. When you are done, Add the changes to the branch you just created using the git add command:
-- `git add <filename>`
-
-Now commit your changes using the `git command`:
-- `git commit -m "Adding <filename>"`
-
-### 5. Push changes on forked Repo 
-
-- `git push -u origin {branch-name}`
+8. Push your commit to GitHub
+    ```
+    git push 
+    ```
+  
+# Open a Pull Request
+1. Go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button. Then submit your pull request as follows:
+   -  From the `Pull requests` tab, click **New pull request**
+   -  In the `base:` drop-down menu, make sure the "master" branch is selected
+   -  In the `compare:` drop-down menu, select `<your-branch-name>`
+2. When you've selected your branch, enter a title for your pull request.
+3. The next field allows you to provide a description of the changes you made.
+4. Click **Create pull request**
 
 
-### 6. Submit your Changes for Review
-If you go to your repository on GitHub, you'll see a Compare & pull request button. Click on that button. Then submit your pull request.
+
 
 ![Pull Request](https://user-images.githubusercontent.com/72005563/136486518-f0b426d8-20ce-4a50-9651-83f9959dfc9a.jpg)
 
