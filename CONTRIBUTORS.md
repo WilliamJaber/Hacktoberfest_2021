@@ -62,3 +62,7 @@ Add your name to the CONTRIBUTORS.md file using the following format below:
 #### Name: Subhamay Dhara
 > - Location: West Bengal , India
 > - GitHub: [dharasubhamay](https://github.com/dharasubhamay)
+
+#### Name: Fitrah Aditiya
+> - Location: Jakarta, Indonesia
+> - GitHub: [aditiyaf](https://github.com/aditiyaf)
