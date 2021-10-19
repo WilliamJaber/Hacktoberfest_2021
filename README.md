@@ -3,9 +3,10 @@
 
 # 👻  🕸 🎃 Hacktoberfesr_2021 Repo 🎃 🕸 👻
 
+ ![image](https://user-images.githubusercontent.com/72005563/137847902-e9d88738-bf5f-48a0-bb2f-3d74869c754f.png)
+ 
 </div>
 
-![image](https://user-images.githubusercontent.com/72005563/137847902-e9d88738-bf5f-48a0-bb2f-3d74869c754f.png)
 
 
 ## 🕯️ What is Hacktoberfest?
