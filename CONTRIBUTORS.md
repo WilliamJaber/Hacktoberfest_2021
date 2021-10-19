@@ -40,3 +40,8 @@ Add your name to the CONTRIBUTORS.md file using the following format below:
 #### Name: William Jaber
 > - Location: Medellín, Antioquia, Colombia
 > - GitHub: [WilliamJaber](https://github.com/WilliamJaber)
+
+
+#### Name: Nagsen Waghmare
+> - Location: Maharashtra , India
+> - GitHub: [Nagsenwaghmare](https://github.com/Nagsenwaghmare)
