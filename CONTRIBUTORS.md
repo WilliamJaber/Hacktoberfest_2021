@@ -25,6 +25,10 @@ Add your name to the CONTRIBUTORS.md file using the following format below:
 > - Location: Providence, RI, USA
 > - GitHub: [wmassey](https://github.com/wmassey776)
 
+#### Name: Rishaw Kumar
+> - Location: India
+> - GitHub: [Rishaw Kumar](https://github.com/rishawsingh)
+
 #### Name: Utkarsh Tiwari
 > - Location: Delhi, india
 > - GitHub: [aesyklos07](https://github.com/aesyklos07)
