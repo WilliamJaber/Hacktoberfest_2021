@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # 🎃 Open-Source Celebration  🎃
@@ -10,18 +11,22 @@
 ## 🎃 What is Hacktoberfest?
 Hacktoberfest A month-long celebration of open source software from October 1st - 31st sponsored by [Digital Ocean](https://hacktoberfest.digitalocean.com) and [GitHub](https://github.blog/2017-09-27-celebrate-open-source-this-october-with-hacktoberfest/) to get people involved in Open Source. Create your very first pull request to any public repository on GitHub and contribute to the open source developer community. 
 
-## How to contribute to this project
+## How You Can Contribute to this repo  
+ ⚠️ _Follow the Contribution guidelines_
+
 There are two (2) ways to contribute to this project:
 
-- Add your name to `CONTRIBUTORS.md` file
-- Add a small `Python` project/script of your choice
+ 1. Add your name to `CONTRIBUTORS.md` file.
+ 2. Add your `Python` concept to the `code` directory
+  
+### File Name Format
 
-
-<img src="https://www.python.org/static/community_logos/python-logo-generic.svg" height="30" width="100">
+#### python-concept-name_your-name.py
+- example: _binary-search_seraph776.py_
 
 
 ---
-## 👉 How to Begin
+## 👉 How to Begin! 👈
 
 <details>
   <summary>Click to view Instructions!</summary>
@@ -72,13 +77,6 @@ git push -u origin <branch-name>
 2. When you've selected your branch, enter a title for your pull request.
 3. The next field allows you to provide a description of the changes you made.
 4. Click **Create pull request**
-
-
-
-
-![Pull Request](https://user-images.githubusercontent.com/72005563/136486518-f0b426d8-20ce-4a50-9651-83f9959dfc9a.jpg)
-
-![Pull Request](https://user-images.githubusercontent.com/72005563/136486568-8c0cdcd0-c26d-4c48-9def-0b56da4db1f1.jpg)
 
 ### Congratulations! 
 🤩 You just completed the standard fork _-> clone -> edit ->_ pull request workflow that you'll encounter often as a contributor!
