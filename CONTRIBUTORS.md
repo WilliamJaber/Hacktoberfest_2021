@@ -45,3 +45,8 @@ Add your name to the CONTRIBUTORS.md file using the following format below:
 #### Name: Nagsen Waghmare
 > - Location: Maharashtra , India
 > - GitHub: [Nagsenwaghmare](https://github.com/Nagsenwaghmare)
+
+
+#### Name: Subhamay Dhara
+> - Location: West Bengal , India
+> - GitHub: [dharasubhamay](https://github.com/dharasubhamay)
