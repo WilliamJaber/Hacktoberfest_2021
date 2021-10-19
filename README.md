@@ -1,14 +1,14 @@
 
 <div align="center">
 
-# 🎃 Open-Source Celebration  🎃
+# 👻  🕸 🎃 Hacktoberfesr_2021 Repo 🎃 🕸 👻
 
 </div>
 
-<img src="https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg">
+![image](https://user-images.githubusercontent.com/72005563/137847902-e9d88738-bf5f-48a0-bb2f-3d74869c754f.png)
 
 
-## 🎃 What is Hacktoberfest?
+## 🕯️ What is Hacktoberfest?
 Hacktoberfest A month-long celebration of open source software from October 1st - 31st sponsored by [Digital Ocean](https://hacktoberfest.digitalocean.com) and [GitHub](https://github.blog/2017-09-27-celebrate-open-source-this-october-with-hacktoberfest/) to get people involved in Open Source. Create your very first pull request to any public repository on GitHub and contribute to the open source developer community. 
 
 ## How You Can Contribute to this repo  
@@ -26,7 +26,7 @@ There are two (2) ways to contribute to this project:
 
 
 ---
-## 👉 How to Begin! 👈
+## 🍄 How to Begin! 🍄
 
 <details>
   <summary>Click to view Instructions!</summary>
