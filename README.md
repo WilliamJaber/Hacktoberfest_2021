@@ -21,50 +21,48 @@ There are two (2) ways to contribute to this project:
 
 
 ---
-## 👉 Instructions on how to Contribute
+## 👉 How to Begin
 
 <details>
   <summary>Click to view Instructions!</summary>
 
-1. `Folk this Repo` by clicking on the fork button on the top of this page. This will create a copy of this repository in your account
+#### 1. Folk this Repo. This will create a copy of this repository in your account.
 
-![image](https://user-images.githubusercontent.com/72005563/136487383-4161c010-ffc5-40cb-bd1f-4f1ac0a4429f.png)
+#### 2. Clone this repository and Navigate to the folder in your shell:    
+  
+```
+git clone git clone https://github.com/{username}/Hacktoberfest_2021.git
+cd Hacktoberfest_2021  
+```
 
+  
+#### 3. Make your Contributions 
+- Add your name to `CONTRIBUTORS.md` file
+- Add a small `Python` project/script of your choice  
+  
+#### 4. Create a branch, use whatever name you like. 
 
+```
+git checkout -b <branch-name>
+```
+  
+#### 5. Add your files or changes to staging area:
+    
+```
+git add .
+```
+#### 6. Add a commit message
+  
+```
+git commit -m "Your commit message"
+```
 
-3. Open your preferred command line interface (CLI).
-4. Clone this repository:    
-    ```
-    git clone git clone https://github.com/{username}/Hacktoberfest_2021.git
-    ```
- 3. Navigate to the repository in your shell:
+#### 7. Push the branch to GitHub
 
-    ```
-    cd Hacktoberfest_2021
-    ```
+```
+git push -u origin <branch-name>
+```
 
-4. Create a branch, use whatever name you like. 
-
-    ```
-    git checkout -b <branch-name>
-    ```
-5. Push the branch to GitHub
-    ```
-    git push -u origin <branch-name>
-    ```
-6. Add your files or changes. Then add files to staging area 
-    ```
-    git add .
-    ```
-7. Add a commit message
-    ```
-    git commit -m "Your commit message"
-    ```
-
-8. Push your commit to GitHub
-    ```
-    git push 
-    ```
   
 # Open a Pull Request
 1. Go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button. Then submit your pull request as follows:
