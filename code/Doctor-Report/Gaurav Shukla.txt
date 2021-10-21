@@ -1,0 +1,24 @@
+                  FAITH HOSPITAL          
+Phone : +91 987655432           Email : faith@hospital.com
+__________________________________________________________
+                   Patient Details             
+       Name : Gaurav Shukla      Age : 21     Sex : Male    
+       Weight : 43        Address : Somewhere on Earth
+       Phone : 0987654321          Date : 2021-10-21
+       Illness : Fever and Cold     Medical History : Nne
+__________________________________________________________
+About illness : Pateint is suffering from cold and fever so provided some basic medicines. 
+
+Medicines Given :
+- Paracetamol 
+- Dolo 
+- Vicks 
+
+Foods to Eat : 
+- Eggs 
+- Chicken 
+- Green Vegetables 
+- Juice 
+
+ Note : Nothing 
+            ~~~~ Get Well Soon ~~~~            
