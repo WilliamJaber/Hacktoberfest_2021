@@ -75,3 +75,8 @@ Add your name to the CONTRIBUTORS.md file using the following format below:
 #### Name: Sanidhya Kashyap
 > - Location: Greater Noida, India
 > - GitHub: [sanidhya-kashyap](https://github.com/sanidhya-kashyap)
+
+#### Name: Lakshay sharma
+> - Location: Delhi ,India
+> - GitHub: [Lakshay0786](https://github.com/Lakshay0786)
+
