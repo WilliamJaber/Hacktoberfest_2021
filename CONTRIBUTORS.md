@@ -66,3 +66,8 @@ Add your name to the CONTRIBUTORS.md file using the following format below:
 #### Name: Fitrah Aditiya
 > - Location: Jakarta, Indonesia
 > - GitHub: [aditiyaf](https://github.com/aditiyaf)
+
+
+#### Name: Gaurav Shukla
+> - Location: Greater Noida, India
+> - GitHub: [iamgauravshukla](https://github.com/iamgauravshukla)
