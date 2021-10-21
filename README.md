@@ -19,12 +19,14 @@ There are two (2) ways to contribute to this project:
 
  1. Add your name to `CONTRIBUTORS.md` file.
  2. Add your `Python` concept to the `code` directory
-  
+
+
+<!--
 ### File Name Format
 
 #### python-concept-name_your-name.py
 - example: _binary-search_seraph776.py_
-
+-->
 
 ---
 ## 🍄 How to Begin! 🍄

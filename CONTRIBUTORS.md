@@ -1,7 +1,11 @@
 
-# 🎃 Add your Name to Contributors List  🎃
+<div align="center">
 
-![Hacktoberfest 2021](https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg)
+# 👻🍬 🦇 🍭 🎃 Hacktoberfest 2021 🎃🍭 🦇 🍬👻
+
+ ![image](https://user-images.githubusercontent.com/72005563/137847902-e9d88738-bf5f-48a0-bb2f-3d74869c754f.png)
+ 
+</div>
 
 
 ## Instructions
@@ -20,6 +24,10 @@ Add your name to the CONTRIBUTORS.md file using the following format below:
 #### Name: Will Massey
 > - Location: Providence, RI, USA
 > - GitHub: [wmassey](https://github.com/wmassey776)
+
+#### Name: Rishaw Kumar
+> - Location: India
+> - GitHub: [Rishaw Kumar](https://github.com/rishawsingh)
 
 #### Name: Utkarsh Tiwari
 > - Location: Delhi, india
@@ -54,3 +62,12 @@ Add your name to the CONTRIBUTORS.md file using the following format below:
 #### Name: Subhamay Dhara
 > - Location: West Bengal , India
 > - GitHub: [dharasubhamay](https://github.com/dharasubhamay)
+
+#### Name: Fitrah Aditiya
+> - Location: Jakarta, Indonesia
+> - GitHub: [aditiyaf](https://github.com/aditiyaf)
+
+
+#### Name: Gaurav Shukla
+> - Location: Greater Noida, India
+> - GitHub: [iamgauravshukla](https://github.com/iamgauravshukla)
