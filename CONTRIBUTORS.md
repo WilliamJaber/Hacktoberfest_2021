@@ -83,3 +83,8 @@ Add your name to the CONTRIBUTORS.md file using the following format below:
 #### Name: Tycho
 > - Location: Almere, The Netherlands
 > - GitHub: [TCK13](https://github.com/Tck13)
+
+#### Name: Dennis Jonda
+> - Location: Frankfurt, Germany
+> - GitHub: [dennisjonda](https://github.com/dennisjonda)
+
