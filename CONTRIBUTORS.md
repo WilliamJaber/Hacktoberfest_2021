@@ -88,3 +88,7 @@ Add your name to the CONTRIBUTORS.md file using the following format below:
 > - Location: Frankfurt, Germany
 > - GitHub: [dennisjonda](https://github.com/dennisjonda)
 
+#### Name: Mohamad Arshad
+> - Location: Yamunanagar, Haryana India
+> - GitHub: [dennisjonda](https://github.com/dennisjonda)
+
